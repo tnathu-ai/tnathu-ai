@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Thu Tran</h1>
-<h3 align="center">Passionate in Data Science, Machine Learning, and Frontend Development</h3>
+<h3 align="center">...</h3>
 
 <h3 align="left">:::::</h3>
 <p align="left">
