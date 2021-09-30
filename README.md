@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <a href="https://discord.gg/#4913" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4913" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tnathu-ai&show_icons=true&locale=en&layout=compact" alt="tnathu-ai" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tnathu-ai&show_icons=true&locale=en&layout=compact" alt="tnathu-ai" /></p>
 
 
 
