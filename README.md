@@ -19,5 +19,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Thu Tran</h1>
 <h3 align="center">...</h3>
 
+<br><br>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 
 
