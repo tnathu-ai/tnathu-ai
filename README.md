@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<p align="center">
+<a href=# target="blank"><img align="center" src="https://i.ibb.co/wY08Xwr/Neural-Network-Logo.png" alt="tnathu-ai logo" height="30" width="40" /></a> 
+</p>
 <h1 align="center">Hi 👋, I'm Thu Tran</h1>
 
 <h3 align="center">Connect with me:</h3>
