@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
 <a href=# target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="tnathu-ai" height="30" width="40" />    ngocanhthu20102002@gmail.com</a>
+<a href="https://medium.com/@tnathu-ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tnathu-ai" height="30" width="40" /></a>
 </p>
+
 
 
 <br><br>
