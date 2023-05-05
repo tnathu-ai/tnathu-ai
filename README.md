@@ -20,12 +20,6 @@ Here are some ideas to get you started:
 </p>
 <h1 align="center">Hi 👋, Connect with me:</h1>
 
-<p align="center">
-<a href="https://www.youtube.com/channel/UC9PFz9W7OKgSuqV7nQVg21w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tnathu-ai" height="30" width="40" /></a> 
-</p>
-<p align="center">
-<a href="https://medium.com/@tnathu-ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tnathu-ai" height="30" width="40" /></a>
-</p>
 </p>
 <p align="center">
 <a href="https://www.kaggle.com/tnathu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="@tnathu-ai" height="30" width="40" /></a>
